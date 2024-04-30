@@ -2,6 +2,21 @@
     color: #DB8236;
     font-family: Arial, Helvetica, sans-serif;
 }
+/* changing the text color to the nav link */
+.nav-item a {
+    color: #DB8236;
+    /* font-size: 20px; */
+}
 
+/* adding a hover effect to the image */
+.img-hover:hover{
+    transform: scale(1.15);
+}
 
-    
+/* styling the divider */
+.divider{
+    border: none;
+    height: 25px;
+    background-color: #DB8236; 
+}
+
